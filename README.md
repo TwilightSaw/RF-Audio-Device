@@ -37,7 +37,7 @@ VS Studio Code
 ## Connection
 1. USB-C Connections - MAX9814 - XIAO Seeed Microcontroller(PTX)
 2. USB-C Connections - Pro Micro Microcontroller(PRX) - MAX98357A - Headphone driver
-> Circuit - ![]()
+> Circuit - ![](https://github.com/TwilightSaw/RF-Audio-Device/blob/main/images/circuit.jpg?raw=true)
 > 
 > Amplified sound is grainy, more distinct with higher pitches and closer location. Stable distance between RF modules is ~1m.
 
