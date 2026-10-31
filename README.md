@@ -48,6 +48,8 @@ TC-01
 ![](https://github.com/TwilightSaw/RF-Audio-Device/blob/main/images/OSC_TC01.png?raw=true)
 
 ![](https://github.com/TwilightSaw/RF-Audio-Device/blob/main/images/TC01_res.jpg?raw=true)
+
+CSV file shows results for 30 consequent measurements - VPP and ACRMS.
 LabView files is presented accordingly.
 
 ## Conclusions
